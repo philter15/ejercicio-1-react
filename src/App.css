@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  color: #61dafb;
+}
+
+.Usuario {
+  text-align: center;
+  color: #e0c10f;
 }
 
 .App-logo {
